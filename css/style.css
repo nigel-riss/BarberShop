@@ -1,0 +1,25 @@
+body {
+    /* Visual */
+    background-color: #000;
+    
+    /* Typography */
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "PT Sans Narrow", sans-serif;
+    line-height: 1.714;
+    color: #f7f4f1;
+    text-transform: uppercase;
+}
+.features-title {
+    /* Typography */
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.411;
+}
+
+.content-column-title {
+    /* Typography */
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.411;
+}
