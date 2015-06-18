@@ -808,8 +808,8 @@ body {
 
 .item-description {
     /* Box-model */
-    float: right;
-    width: 390px;
+    
+    margin-left: 480px;
     margin-top: 50px;
 }
 
